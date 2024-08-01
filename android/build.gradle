@@ -17,7 +17,7 @@ android {
     buildToolsVersion = "34.0.0"
 
     defaultConfig {
-        minSdkVersion 26
+        minSdkVersion 23
         targetSdkVersion 34 // Update to match compileSdkVersion
         versionCode 1
         versionName "1.0"
